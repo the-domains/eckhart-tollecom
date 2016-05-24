@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.supersoul.tv/supersoul-sunday/eckhart-tolle-reveals-how-to-silence-the-voices-in-your-head'
 title: Eckhart Tolle Reveals How to Silence the Voices in Your Head - SuperSoul.tv
-datePublished: '2016-05-24T19:13:16.058Z'
-dateModified: '2016-05-24T18:59:26.676Z'
+datePublished: '2016-05-24T19:13:37.586Z'
+dateModified: '2016-05-24T18:57:58.261Z'
 starred: false
 sourcePath: _posts/2016-05-24-eckhart-tolle-reveals-how-to-silence-the-voices-in-your-head.md
 inFeed: true
