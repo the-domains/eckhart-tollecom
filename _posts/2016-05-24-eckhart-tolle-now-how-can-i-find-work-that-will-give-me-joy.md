@@ -59,8 +59,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/TFGAvPud80A'
 title: 'Eckhart Tolle NOW: How can I find work that will give me joy?'
-datePublished: '2016-05-24T19:17:11.647Z'
-dateModified: '2016-05-24T19:16:55.524Z'
+datePublished: '2016-05-24T19:23:23.957Z'
+dateModified: '2016-05-24T19:23:11.741Z'
 starred: false
 sourcePath: _posts/2016-05-24-eckhart-tolle-now-how-can-i-find-work-that-will-give-me-joy.md
 inFeed: true
