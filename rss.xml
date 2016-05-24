@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[eckhart-tolle.com]]></title>
         <description><![CDATA[eckhart-tolle.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eckhart-tollecom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 19:13:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 19:13:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eckhart-tollecom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Soul to Soul with Eckhart Tolle - SuperSoul.tv]]></title>
+            <description><![CDATA[<article><h1>Soul to Soul with Eckhart Tolle - SuperSoul.tv</h1><p>Where does spiritual teacher Eckhart Tolle feel most at home? Is he always happy? Watch this lightning round of Soul to Soul questions and see which answer made Oprah laugh out loud.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27820a5d29ba6e27afe1856d1ad38fc959f6dd24.jpg"></article>]]></description>
+            <link>http://www.supersoul.tv/supersoul-sunday/soul-to-soul-with-eckhart-tolle</link>
+            <guid isPermaLink="false">e65fabbf-8077-4c97-a4e2-f334d15fbaa7</guid>
+            <pubDate>Tue, 24 May 2016 19:13:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eckhart Tolle: The Awakening of Consciousness - SuperSoul.tv]]></title>
             <description><![CDATA[<article><h1>Eckhart Tolle: The Awakening of Consciousness - SuperSoul.tv</h1><p>He's the man Oprah calls the "rockstar of the spiritual movement." In this enlightening SuperSoul Session, author Eckhart Tolle explains the awakening of consciousness by taking on one of Oprah's signature questions: What do you know for sure? "I know for sure that I'm sitting on a chair," Eckhart says.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f25f74b77b8cd4506dc256a66cbbd743e8c5570.jpg"></article>]]></description>
