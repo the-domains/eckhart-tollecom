@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[eckhart-tolle.com]]></title>
-        <description><![CDATA[eckhart-tolle.com]]></description>
-        <link>https://thegrid.ai/eckhart-tollecom/</link>
+        <title><![CDATA[eckhart tolle]]></title>
+        <description><![CDATA[eckhart tolle]]></description>
+        <link>http://eckhart-tolle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 19:23:27 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/eckhart-tollecom/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 May 2016 06:37:36 GMT</lastBuildDate>
+        <atom:link href="http://eckhart-tolle.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eckhart Tolle Reveals How to Silence the Voices in Your Head (embed)]]></title>
+            <description><![CDATA[<article><h1>Eckhart Tolle Reveals How to Silence the Voices in Your Head (embed)</h1><p>When we announced on Facebook that Eckhart Tolle and Oprah were sitting down once again, questions for Eckhart began pouring in. Watch as he answers two of your most burning questions: How do you calm the voice in your head, and how can you clear your mind of bad memories?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99b14490a028e69feff9ecba6fca47a1d2b957d1.jpg"></article>]]></description>
+            <link>http://www.oprah.com/video_embed.html?article_id=40541</link>
+            <guid isPermaLink="false">9eac3d25-d59c-44dc-9504-e0f1e52227e6</guid>
+            <pubDate>Wed, 25 May 2016 06:37:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eckhart Tolle NOW: How can I find work that will give me joy?]]></title>
             <description><![CDATA[<article><h1>Eckhart Tolle NOW: How can I find work that will give me joy?</h1><p>In this Question and Answer preview, Eckhart advises to focus on your inner state-but not as a means to an end.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2883bbf879eeafa95030761e3e99a8a83f363317.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.supersoul.tv/speakers/eckhart-tolle</link>
             <guid isPermaLink="false">0aab5ae1-2f3f-4147-8460-cbb6c4515fdb</guid>
             <pubDate>Tue, 24 May 2016 19:13:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eckhart Tolle's Meditation For Finding Inner Peace]]></title>
-            <description><![CDATA[<article><h1>Eckhart Tolle's Meditation For Finding Inner Peace</h1><p>Eckhart Tolle TV is dedicated to providing you with the resources to put his teachings into practice everyday to transform your life, which ultimately transforms the world. In his GPS Guide below, Eckhart Tolle shows you how to find inner peace through meditation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28e85f3b4cb9b263b21b1fbdde101258e692056a.jpg"></article>]]></description>
-            <link>http://www.huffingtonpost.com/entry/eckhart-tolle-meditation_us_55ccb7efe4b0cacb8d3322d1?utm_hp_ref=eckhart-tolle</link>
-            <guid isPermaLink="false">b84d3f80-20db-46dd-bfbe-09e1b1a3a517</guid>
-            <pubDate>Tue, 24 May 2016 19:13:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
